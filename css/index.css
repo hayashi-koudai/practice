@@ -3,3 +3,32 @@ h1{
     font-weight: bold;
     color: darkred;
 }
+
+p.sub-title1{
+    color: tomato;
+}
+
+p#sub-title2{
+    color: violet;
+}
+
+.company{
+    font-weight: bold;
+    font-size: larger;
+}
+
+div.box1{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+}
+div.box2{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(255, 166, 0);
+}
+div.box3{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(0, 255, 128);
+}
